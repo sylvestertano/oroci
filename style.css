@@ -1,0 +1,68 @@
+
+body {
+	background-image: url(resources/images/flo.jpg);
+	font-family: Arial, sans-serif;
+	font-size: 90%;
+	line-height: 1.3;
+	margin: 0px;
+	padding: 0px;
+	}
+	#container {
+	font-size: 120%;
+	font-color: blue;
+	font-style: italic, bold;
+	width: 794px;
+	margin: 150px;
+	text-align: center;	
+	}
+	
+
+h1 {
+	font-weight: bold;
+	font-style: italic;
+	border-style:none;
+	color: red;
+	text-align: center;
+}
+h2 {
+	font-weight: bold;
+	font-style: italic;
+	border-style:none;
+	color: blue;
+	text-align: center;
+}
+table {
+	width: 60;
+	height: 40;
+	border: 1px solid red;
+	
+}
+ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+}
+a:link{
+	font-weight: bold;
+	text-decoration: none;
+	color: #FF7A00;
+	background: transparent;
+}
+a:visited{
+	font-weight: bold;
+	text-decoration: none;
+	color: #91a3b4;
+	background: transparent;
+}
+a:hover{
+	font-weight: bold;
+	text-decoration: none;
+	color: #FA0000;
+	background: transparent;
+}
+a:active{
+	font-weight: bold;
+	text-decoration: none;
+	color: #494949;
+	background: transparent;
+}
