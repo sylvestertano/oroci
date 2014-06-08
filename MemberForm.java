@@ -12,9 +12,7 @@ public class MemberForm {
 	private String emailAddress;
 	private String sex;
 	private String active;
-	public enum active {
-		true, false
-	}
+	public  boolean active ;
 	
 	public enum Sex {
 		M, F
